@@ -6,7 +6,6 @@
 *Weekly Bar Graph Visual*
 
 Weekly breakdown of total crimes from two million analyzed rows. Highest day of reported incidents is Saturday's with **318,918** total. 
-
 Lowest is on Monday's at **277,444**.
 
 Screenshot:
