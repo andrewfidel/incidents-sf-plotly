@@ -1,4 +1,6 @@
-# incidents-sf-plotly
+## San Francisco Police Incidents
+
+# Project Details
 
 > Based on data provided by [Open Data of the San Francisco goverment](https://data.sfgov.org/Public-Safety/Police-Department-Incidents/tmnf-yvry). The data analyzed is over two million records from Jan 1, 2001 - June 2017.
 
