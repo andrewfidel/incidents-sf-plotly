@@ -9,7 +9,7 @@
 
 Screenshot:
 ![Screenshot](https://rawgit.com/drewfidizzle/incidents-sf-plotly/master/incident-sf.png)
-
+[Run in your browser](https://rawgit.com/drewfidizzle/incidents-sf-plotly/master/incidents-sf.html)
 ## Meta
 [Connect with me on Linkedin](www.linkedin.com/in/andrewfidel/) <br />
 [Other projects & Samples](https://github.com/drewfidizzle)
