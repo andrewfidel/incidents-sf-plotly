@@ -5,7 +5,7 @@
 ## The Bar Graph
 *Weekly Bar Graph Visual*
 
-       Weekly breakdown of total crimes from two million analyzed rows. Highest day of reported incidents is Saturday's with <br>318,918</br> total. Lowest is on Monday's at <br>277,444</br>.
+       Weekly breakdown of total crimes from two million analyzed rows. Highest day of reported incidents is Saturday's with <br>318,918</br> total. Lowest is on Monday's at **277,444**.
 
 Screenshot:
 ![Screenshot](https://rawgit.com/drewfidizzle/incidents-sf-plotly/master/incident-sf.png)
