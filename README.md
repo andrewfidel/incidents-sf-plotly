@@ -2,6 +2,7 @@
 
 > Based on data provided by [Open Data of the San Francisco goverment](https://data.sfgov.org/Public-Safety/Police-Department-Incidents/tmnf-yvry). The data analyzed is over two million records from Jan 1, 2001 - June 2017.
 
+Technologies used to develop interactive bar graph: Python, [plot.ly](https://plot.ly/), [pandas](https://pandas.pydata.org/) 
 ## The Bar Graph
 *Weekly Bar Graph Visual*
 
