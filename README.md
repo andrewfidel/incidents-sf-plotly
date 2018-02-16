@@ -6,8 +6,6 @@
 
 Technologies used to develop interactive bar graph: [Python](https://www.python.org/), [plot.ly](https://plot.ly/), [pandas](https://pandas.pydata.org/) 
 
----
-
 ## The Bar Graph
 *Weekly Bar Graph Visual*
 
